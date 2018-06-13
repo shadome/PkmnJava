@@ -1,1 +1,0 @@
-rm target/Pkmn-1.0-SNAPSHOT.jar ; mvn package ; echo "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" ; java -cp target/Pkmn-1.0-SNAPSHOT.jar com.shad.app.Main
