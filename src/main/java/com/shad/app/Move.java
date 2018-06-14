@@ -1,4 +1,4 @@
-package com.shad.app;
+v ..package com.shad.app;
 
 public class Move {
 	protected Type type;
