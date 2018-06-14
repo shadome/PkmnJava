@@ -1,4 +1,4 @@
-package com.shad.app;
+package com.shad.app.lib;
 
 import java.util.HashMap;
 import java.util.Map;

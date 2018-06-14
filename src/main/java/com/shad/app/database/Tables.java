@@ -1,4 +1,4 @@
-package com.shad.app;
+package com.shad.app.database;
 
 public enum Tables {
 	INSTANCE;
